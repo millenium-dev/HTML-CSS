@@ -1,1 +1,23 @@
-p { background-color: red; }
+p { color: crimson; }
+ol {
+    color: blue;
+  }
+  ul {
+    color: blue;
+  }
+  li {
+    color: blue;
+  }
+  
+  
+  
+.otsikot {
+    color: maroon;
+  }
+  #kohta {
+    color: red;
+  }
+  #ok {
+    color: red;
+  }
+  
