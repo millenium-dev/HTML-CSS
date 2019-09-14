@@ -6,6 +6,7 @@
   <title>Lapio website</title>
   <h1>Seitsemän veljestä</h1>
   <h3>Tärkeät päähenkilöt</h3>
+  <link rel="stylesheet" href="style.css">
   <img src="https://upload.wikimedia.org/wikipedia/commons/a/a2/Seitsem%C3%A4n_veljest%C3%A4.png" alt="Smiling dog" height="190" width="320"/>
   
   
